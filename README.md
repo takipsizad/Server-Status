@@ -28,9 +28,11 @@ Discord bot which checks status of minecraft server and returns details
      ```
     
 
-Dependencies
+## Dependencies
+
 1) [mcstatus](https://github.com/Dinnerbone/mcstatus) Module (Python)
 2) [Discord](https://pypi.org/project/discord.py/) Module (Python)
+
 
 
 ## Setup
