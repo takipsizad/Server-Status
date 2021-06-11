@@ -20,23 +20,25 @@ Discord bot which checks status of minecraft server and returns details
      $player-names
     
     
-##Setup:
-    
-    Linux
-    1)Clone the repository with 
+##Setup
+
+Linux
+
+1)Clone the repository with 
          ```
          git clone ''
          ```
+
+2)Run setup.py and input necessary fields
     
-    2)Run setup.py and input necessary fields
+3)Run main.py
     
-    3)Run main.py
-    
-    4)Add main.py to crontab to start script on startup (Optional)
+4)Add main.py to crontab to start script on startup (Optional)
         ```
         sudo crontab -e
         ```
         copy and paste into file
+       
         ```
         @reboot sleep 5m && PYTHONPATH=/usr/bin/python3 /usr/bin/python3 $HOME/serverstat.py &
         ```
