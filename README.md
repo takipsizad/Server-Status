@@ -19,7 +19,12 @@ Discord bot which checks status of minecraft server and returns details
      Gives the names of all the players online
      $player-names
     
-    
+
+Dependencies
+1) [mcstatus](https://github.com/Dinnerbone/mcstatus) Module (Python)
+2) [Discord](https://pypi.org/project/discord.py/) Module (Python)
+
+
 ##Setup
 
 Linux
@@ -27,10 +32,10 @@ Linux
 1)Clone the repository with 
          
 ```
-git clone ''
+git clone https://github.com/AwareSuperCC/Server-Status.git
 ```
 
-2)Run setup.py and input necessary fields
+2)Run setup.py and input Token from discord bot and IP of server (or Domain Name)
     
 3)Run main.py
     
