@@ -1,7 +1,7 @@
 # Server-Status
 Discord bot which checks status of minecraft server and returns details
 
-##There are 4 functions in total:
+## There are 4 functions in total:
   
   1. Server Status
      Checks if server is online or offline
@@ -25,7 +25,7 @@ Dependencies
 2) [Discord](https://pypi.org/project/discord.py/) Module (Python)
 
 
-##Setup
+## Setup
 
 Linux
 
