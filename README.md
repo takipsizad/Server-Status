@@ -42,7 +42,7 @@ Linux
 1)Clone the repository with 
          
 ```
-git clone https://github.com/AwareSuperCC/Server-Status.git
+git clone https://github.com/AwareSuperCC/Server-Status.git && cd Server-Status/
 ```
 
 2)Run setup.py and input Token from discord bot and IP of server (or Domain Name)
