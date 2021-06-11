@@ -27,7 +27,7 @@ Linux
 1)Clone the repository with 
          
 ```
-         git clone ''
+git clone ''
 ```
 
 2)Run setup.py and input necessary fields
@@ -37,10 +37,10 @@ Linux
 4)Add main.py to crontab to start script on startup (Optional)
         
 ```
-        sudo crontab -e
+sudo crontab -e
 ```
   copy and paste into file
        
 ```
-      @reboot PYTHONPATH=/usr/bin/python3 /usr/bin/python3 $HOME/serverstat.py &
+@reboot PYTHONPATH=/usr/bin/python3 /usr/bin/python3 $HOME/serverstat.py &
 ```
