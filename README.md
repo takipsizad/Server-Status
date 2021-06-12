@@ -31,9 +31,11 @@ Discord bot which checks status of minecraft server and returns details
 
 ## Dependencies
 
-1) [mcstatus](https://github.com/Dinnerbone/mcstatus) Module (Python)
-2) [Discord](https://pypi.org/project/discord.py/) Module (Python)
-3) [Decouple](https://pypi.org/project/python-decouple/) Module (Python)  
+1) [Python 3.7 & above](https://www.python.org/downloads/)
+2) [pip3](https://pip.pypa.io/en/stable/installing/)
+3) [mcstatus](https://github.com/Dinnerbone/mcstatus) Module (Python)
+4) [Discord](https://pypi.org/project/discord.py/) Module (Python)
+5) [Decouple](https://pypi.org/project/python-decouple/) Module (Python)  
 
 
 
