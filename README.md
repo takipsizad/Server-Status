@@ -40,6 +40,9 @@ Discord bot which checks status of minecraft server and returns details
 
 ## Setup
 
+Create a new discord bot and invite it to your discord server  
+If you are new to discord bots check this [tutorial](https://www.freecodecamp.org/news/create-a-discord-bot-with-python/) out
+
 Linux
 
 1)Clone the repository with 
@@ -70,5 +73,3 @@ sudo crontab -e
 ```  
   
   
- 
-If you are new to discord bots check this [tutorial](https://www.freecodecamp.org/news/create-a-discord-bot-with-python/) out
