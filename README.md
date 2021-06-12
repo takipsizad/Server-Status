@@ -46,9 +46,9 @@ Linux
 git clone https://github.com/AwareSuperCC/Server-Status.git && cd Server-Status/
 ```
 
-2)Run setup.sh and input IP of server (or Domain Name) and Token from discord bot
+2)Give execution permission and Run setup.sh and input IP of server (or Domain Name) and Token from discord bot
 ```
-./setup.sh
+sudo chmod +x setup.sh && ./setup.sh
 ```
     
 3)Run main.py
