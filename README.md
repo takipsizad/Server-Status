@@ -32,6 +32,7 @@ Discord bot which checks status of minecraft server and returns details
 
 1) [mcstatus](https://github.com/Dinnerbone/mcstatus) Module (Python)
 2) [Discord](https://pypi.org/project/discord.py/) Module (Python)
+3) [Decouple](https://pypi.org/project/python-decouple/) Module (Python)
 
 
 
@@ -45,9 +46,15 @@ Linux
 git clone https://github.com/AwareSuperCC/Server-Status.git && cd Server-Status/
 ```
 
-2)Run setup.py and input Token from discord bot and IP of server (or Domain Name)
+2)Run setup.sh and input IP of server (or Domain Name) and Token from discord bot
+```
+./setup.sh
+```
     
 3)Run main.py
+```
+python3 main.py
+```
     
 4)Add main.py to crontab to start script on startup (Optional)
         
