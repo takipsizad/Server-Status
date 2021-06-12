@@ -3,25 +3,25 @@ Discord bot which checks status of minecraft server and returns details
 
 ## There are 4 functions in total:
   
-  1. Server Status
+  1. Server Status  
      Checks if server is online or offline
       ```
       $status
       ```
   
-  2. Latency
+  2. Latency  
      Checks the latency of the server
      ```
      $ping
      ```
   
-  3. Player Amount
+  3. Player Amount  
      Gives the number of players currently online
      ```
      $players
      ```
   
-  4. Player List
+  4. Player List  
      Gives the names of all the players online
      ```
      $player-names
