@@ -25,19 +25,19 @@ Discord bot which checks status of minecraft server and returns details
      Gives the names of all the players online
      ```
      $player-names
-     ```
+     ```  
  
-\
+
 
 ## Dependencies
 
 1) [mcstatus](https://github.com/Dinnerbone/mcstatus) Module (Python)
 2) [Discord](https://pypi.org/project/discord.py/) Module (Python)
-3) [Decouple](https://pypi.org/project/python-decouple/) Module (Python)
+3) [Decouple](https://pypi.org/project/python-decouple/) Module (Python)  
 
 
 
-\
+
 ## Setup
 
 Linux
@@ -67,8 +67,8 @@ sudo crontab -e
        
 ```
 @reboot PYTHONPATH=/usr/bin/python3 /usr/bin/python3 $HOME/serverstat.py &
-```
+```  
   
   
-\  
+ 
 If you are new to discord bots check this [tutorial](https://www.freecodecamp.org/news/create-a-discord-bot-with-python/) out
