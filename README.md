@@ -27,7 +27,7 @@ Discord bot which checks status of minecraft server and returns details
      $player-names
      ```
  
- 
+\
 
 ## Dependencies
 
@@ -37,7 +37,7 @@ Discord bot which checks status of minecraft server and returns details
 
 
 
-
+\
 ## Setup
 
 Linux
@@ -70,5 +70,5 @@ sudo crontab -e
 ```
   
   
-  
+\  
 If you are new to discord bots check this [tutorial](https://www.freecodecamp.org/news/create-a-discord-bot-with-python/) out
